@@ -1,0 +1,2 @@
+# database
+comandos sql probados 
